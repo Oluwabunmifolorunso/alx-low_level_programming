@@ -2,7 +2,7 @@
 
 /**
  * main - How to make lowercase with putchar
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
