@@ -7,14 +7,15 @@
 
 int main(void)
 {
-	char sl;
-	char bl;
+	char az;
 
-	for (sl = 'a'; sl <= 'z'; sl++)
-	for (bl = 'A'; bl <= 'Z'; bl++)
+	for (az = 'a'; az <= 'z'; az++)
 	{
-		putchar(sl);
-		putchar(bl);
+		putchar(az);
+	}
+	for (az = 'A'; az <= 'Z'; az++)
+	{
+		putchar(az);
 	}
 	putchar('\n');
 	return (0);
