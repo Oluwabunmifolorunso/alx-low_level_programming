@@ -8,13 +8,13 @@ int main(void)
 	int o;
 	int t;
 	int h;
-		for (o = 48; o <= 56; o++)
+		for (o = 48; o < 56; o++)
 	{
-		for (t = 48; t <= 56; t++)
+		for (t = 48; t < 56; t++)
 		{
 			if (t > o)
 			{
-				for (h = 48; h <= 56; h++)
+				for (h = 48; h < 56; h++)
 				{
 					if (h > t)
 					{
