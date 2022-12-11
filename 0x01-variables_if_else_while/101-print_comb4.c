@@ -8,20 +8,20 @@ int main(void)
 	int o;
 	int t;
 	int h;
-		for (o = 48; o < 56; o++)
+		for (o = 48; o < 58; o++)
 	{
-		for (t = 48; t < 56; t++)
+		for (t = 48; t < 58; t++)
 		{
 			if (t > o)
 			{
-				for (h = 48; h < 56; h++)
+				for (h = 48; h < 58; h++)
 				{
 					if (h > t)
 					{
 					putchar(o);
 					putchar(t);
 					putchar(h);
-					if (o == 53 && t == 54 && h == 55)
+					if (o == 55 && t == 56 && h == 57)
 					{
 						break;
 					}
