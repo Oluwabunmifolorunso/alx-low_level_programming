@@ -21,7 +21,7 @@ int main(void)
 				if (o * 100 + t != 9899)
 				{
 					putchar(',');
-					putchar(' ')
+					putchar(' ');
 				}
 			}
 		}
