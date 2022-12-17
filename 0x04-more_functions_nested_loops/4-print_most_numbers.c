@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_most_numbers - prints number
+ * print_most_numbers - Do not print 2 and 4
  */
 
 void print_most_numbers(void)
