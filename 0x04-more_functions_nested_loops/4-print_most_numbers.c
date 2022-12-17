@@ -2,6 +2,7 @@
 
 /**
  * print_most_numbers - Do not print 2 and 4
+ * Return: Always 0
  */
 
 void print_most_numbers(void)
